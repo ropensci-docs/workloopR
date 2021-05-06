@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "8f8c39473f433b63a3208efd45147b8fe8ddd562",
+    "author": "vbaliga <vbaliga87@gmail.com>",
+    "time": "2021-05-06 16:09:06",
+    "files": 12,
+    "merge": false,
+    "message": "add cran badge\n"
+  },
+  "remote": "https://github.com/ropensci/workloopR",
+  "pkg": "workloopR"
+}
