@@ -1,0 +1,15 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  Analyzing-workloops: Analyzing-workloops.html
+  Calculating-twitch-kinetics: Calculating-twitch-kinetics.html
+  Introduction-to-workloopR: Introduction-to-workloopR.html
+  Plotting-workloopR: Plotting-workloopR.html
+  batch-processing: batch-processing.html
+  non-ddf-sources: non-ddf-sources.html
+last_built: 2024-02-29T05:54Z
+urls:
+  reference: https://docs.ropensci.org/workloopR/reference
+  article: https://docs.ropensci.org/workloopR/articles
+

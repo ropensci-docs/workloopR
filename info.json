@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d2122c751ffcc1690cb482e7f01b50845fef382a",
+    "author": "vbaliga <vbaliga87@gmail.com>",
+    "time": "2021-07-28 18:07:12",
+    "files": 9,
+    "merge": false,
+    "message": "refresh metadata and docs\n"
+  },
+  "repo": "https://github.com/ropensci/workloopR",
+  "pkg": "workloopR"
+}
