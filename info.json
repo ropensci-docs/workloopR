@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "2ed0f7f1081e4decdd108218a2f9c5f566965353",
+    "author": "Vikram Baliga <vbaliga87@gmail.com>",
+    "time": "2024-07-17T15:20:20Z",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #3 from ropensci/pkgdown\n\ndocs: simplify pkgdown configuration"
+  },
+  "repo": "https://github.com/ropensci/workloopR",
+  "pkg": "workloopR",
+  "time": "2026-08-30T07:16:08Z"
+}
